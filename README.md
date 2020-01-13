@@ -1,2 +1,3 @@
-# wbox
-[![Build Status](https://travis-ci.com/Whitbox/wbox.svg?branch=master)](https://travis-ci.com/Whitbox/wbox)
+# Felive
+Framework for detecting live changes in objects
+https://travis-ci.com/Ruskonert/Filive.svg?branch=master
